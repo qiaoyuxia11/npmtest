@@ -4,7 +4,7 @@
   "description": "> TODO: description",
   "author": "qiaoqiaoyuxia <qyx199999@163.com>",
   "homepage": "https://github.com/qiaoyuxia11/npmtest#readme",
-  "license": "ISC",
+  "license": "MIT",
   "main": "lib/two.js",
   "directories": {
     "lib": "lib",
@@ -26,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/qiaoyuxia11/npmtest/issues"
   },
-  "gitHead": "2fc8d5c8b2d2bd76d507a2d1ba387f5f9074ad51"
+  "gitHead": "c274c0a4fe90e62c96e71a9f20b0369a227b8181"
 }
